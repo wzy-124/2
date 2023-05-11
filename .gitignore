@@ -1,0 +1,5 @@
+#忽略wzy.html这个文件
+wzy.html
+
+# 忽略lib目录下的所有文件
+test1/
